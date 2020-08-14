@@ -1,0 +1,4 @@
+C:\Users\Matt\AppData\Local\AmosDevelopment\Amos\26\Plugins\Amos26-Indirect Effects.dll
+C:\Users\Matt\AppData\Local\AmosDevelopment\Amos\26\Plugins\Amos26-Indirect Effects.pdb
+\\Mac\Home\Desktop\BYU\RA Work\Amos26\Amos26-Indirect Effects\Amos26-Indirect Effects\obj\Debug\Amos26-Indirect Effects.dll
+\\Mac\Home\Desktop\BYU\RA Work\Amos26\Amos26-Indirect Effects\Amos26-Indirect Effects\obj\Debug\Amos26-Indirect Effects.pdb
